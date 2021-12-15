@@ -28,7 +28,7 @@ pip install -r requirements.txt
 
 First, an Infermedica App ID and API key is required which can be obtained [here](https://developer.infermedica.com/)
 
-In [keys.py](https://github.com/arnavs-0/PocDoc-API/blob/main/keys.py) change the following lines to your App ID and API key
+In [keys.py](change the following lines to your App ID and API key
 
 ```Python
 APP_ID = 'Infermedica App ID here'
@@ -88,14 +88,9 @@ The name contains the medical condition, in this case ```Common Cold``` and the 
 
 ## Authors
 
-👤 **Arnav Shah & Vishal Dattathreya**
+👤 **Philemon Olang**
+* Github: [Philemon OLang - @Oang](https://github.com/Oang)
 
-* Github: [Arnav Shah - @arnavs-0](https://github.com/arnavs-0)
-* Github: [Vishal Dattathreya - @cmdvmd](https://github.com/cmdvmd)
-
-## 🤝 Contributing & Issues
-
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/arnavs-0/PocDoc-API/issues). 
 
 ## Show your support
 
@@ -103,6 +98,6 @@ Give a ⭐️ if this project helped you!
 
 ## 📝 License
 
-Copyright © 2020-2021 [Arnav Shah](https://github.com/arnavs-0) & [Vishal Dattathreya](https://github.com/cmdvmd).<br />
+Copyright © 2020-2021 
 This project is [GPL-3.0](https://www.gnu.org/licenses/gpl-3.0.en.html) licensed.
 
