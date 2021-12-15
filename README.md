@@ -6,16 +6,16 @@
   </a>
 </p>
 
-> An API based off of Infermedica's Symptom API for better usage on our Android App, PocDoc using HTTP requests
+> An API based off of Infermedica's Symptom API for better usage on our Android App, Api using HTTP requests
 
-### 🏠 [Homepage](https://arnavs-0.github.io/PocDoc-Client/) & [GitHub Homepage](https://github.com/arnavs-0/PocDoc-Public)
+
 
 ## Install
 
 Clone the repo:
 
 ```sh
-https://github.com/arnavs-0/PocDoc-API.git
+https://github.com/Oang/Api.git
 ```
 
 Intsall the requirements:
